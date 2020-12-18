@@ -256,7 +256,7 @@ translate deutsch d07s06_ca5535dc:
 translate deutsch d07s06_ab403922:
 
     # mc "{i}Hi Polly, this is [mcname]. We are having some classes in common in case you forgot.{/i}"
-    mc "{i}Hi Polly, hier ist [mcname]. Wie haben ein paar Klassen gemeinsam, falls du dich nicht erinnerst.{/i}"
+    mc "{i}Hi Polly, hier ist [mcname]. Wie haben ein paar Kurse gemeinsam, falls du es vergessen hast.{/i}"
 
 # game/code/d07/d07s06.rpy:110
 translate deutsch d07s06_9d9ef36c:
@@ -388,7 +388,7 @@ translate deutsch d07s06_later_ea1f2c6b:
 translate deutsch d07s06_later_ed9bdfd2:
 
     # flr "You only managed to get [fl_points] from [goal1_points] needed."
-    flr "Du hast es nur geschafft [fl_points] von [goal1_points] zu verdienen."
+    flr "Du hast nur geschafft [fl_points] von [goal1_points] zu verdienen."
 
 # game/code/d07/d07s06.rpy:193
 translate deutsch d07s06_later_2afbcee3:
@@ -400,7 +400,7 @@ translate deutsch d07s06_later_2afbcee3:
 translate deutsch d07s06_later_ed9bdfd2_1:
 
     # flr "You only managed to get [fl_points] from [goal1_points] needed."
-    flr "Du hast es nur geschafft [fl_points] von [goal1_points] zu verdienen."
+    flr "Du hast nur geschafft [fl_points] von [goal1_points] zu verdienen."
 
 # game/code/d07/d07s06.rpy:199
 translate deutsch d07s06_later_06b0dc6d:
@@ -484,7 +484,7 @@ translate deutsch d07s06_later_d882f22b:
 translate deutsch d07s06_later_6fda206f:
 
     # flr "Converting points towards next retention challenge."
-    flr "Punkte werden für die nächste Challenge convertiert."
+    flr "Punkte werden für die nächste Challenge konvertiert."
 
 # game/code/d07/d07s06.rpy:247
 translate deutsch d07s06_later_180d3264:
@@ -496,7 +496,7 @@ translate deutsch d07s06_later_180d3264:
 translate deutsch d07s06_later_fa6dd341:
 
     # flr "No points converted towards next retention challenge."
-    flr "Keine Punkte für die nächste Bewährungschallenge convertiert."
+    flr "Keine Punkte für die nächste Bewährungschallenge konvertiert."
 
 # game/code/d07/d07s06.rpy:252
 translate deutsch d07s06_later_d4b7f2e2:
